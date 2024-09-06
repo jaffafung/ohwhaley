@@ -1,16 +1,3 @@
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  warnings = FALSE, 
-  messages = FALSE, 
-  prompt = FALSE,
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-
-```
-
 # ohwhaley  
 
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
